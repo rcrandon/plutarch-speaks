@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <!-- EPISODES_START -->
     <item>
-      <title>The Tylenol Crisis: When Trust Became Currency</title>
-      <description><![CDATA[Seven deaths from cyanide-laced capsules. J&J's radical transparency response became the gold standard for crisis management. Lessons on stakeholder prioritization and the economics of trust.]]></description>
+      <title>I. Of the Tylenol Poisonings, and the Remarkable Preservation of Public Trust through Radical Transparency</title>
+      <description><![CDATA[Seven deaths from cyanide-laced capsules in the autumn of 1982. Johnson & Johnson's response—the recall of thirty-one million bottles at ruinous cost—became the gold standard for crisis management. A meditation on stakeholder prioritization and the peculiar economics of trust.]]></description>
       <pubDate>Sat, 01 Feb 2026 20:55:00 +0000</pubDate>
       <enclosure url="https://rcrandon.github.io/plutarch-speaks/episodes/2026-02-01-episode.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">plutarch-20260201</guid>
+      <guid isPermaLink="false">plutarch-001</guid>
       <itunes:duration>00:01:30</itunes:duration>
+      <itunes:episode>1</itunes:episode>
       <itunes:summary>Seven deaths from cyanide-laced capsules. J&J's radical transparency response became the gold standard for crisis management.</itunes:summary>
+    </item>
+    <item>
+      <title>0. Of the Arthashastra, and the Origins of Economic Science in the Court of Chandragupta Maurya</title>
+      <description><![CDATA[India, circa 320 BCE. The ascetic Brahmin Chanakya presents to the young Emperor Chandragupta Maurya a manuscript that would shape governance for two millennia: the Arthashastra, the world's first comprehensive treatise on economics, statecraft, and political philosophy. An introduction to our series, and a meditation on the deep roots of the science of wealth.]]></description>
+      <pubDate>Sat, 01 Feb 2026 21:15:00 +0000</pubDate>
+      <enclosure url="https://rcrandon.github.io/plutarch-speaks/episodes/000-arthashastra.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">plutarch-000</guid>
+      <itunes:duration>00:03:44</itunes:duration>
+      <itunes:episode>0</itunes:episode>
+      <itunes:summary>The world's first economics treatise, presented in the court of Chandragupta Maurya. An introduction to our series.</itunes:summary>
     </item>
     <!-- EPISODES_END -->
   </channel>
