@@ -19,8 +19,18 @@
     <itunes:explicit>false</itunes:explicit>
     <!-- EPISODES_START -->
     <item>
-      <title>I. Of the Tylenol Poisonings, and the Remarkable Preservation of Public Trust through Radical Transparency</title>
-      <description><![CDATA[Seven deaths from cyanide-laced capsules in the autumn of 1982. Johnson & Johnson's response—the recall of thirty-one million bottles at ruinous cost—became the gold standard for crisis management. A meditation on stakeholder prioritization and the peculiar economics of trust.]]></description>
+      <title>II. The South Sea Bubble</title>
+      <description><![CDATA[London, 1720. A single share rises from one hundred to one thousand pounds, then crashes to thirty-seven. Isaac Newton loses his fortune. A nation learns that markets can lie. The story of history's first great financial crash, and the eternal lesson it failed to teach.]]></description>
+      <pubDate>Sun, 02 Feb 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://rcrandon.github.io/plutarch-speaks/episodes/002-south-sea-bubble.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">plutarch-002</guid>
+      <itunes:duration>00:14:46</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:summary>London, 1720. History's first great financial crash. Isaac Newton loses his fortune. A lesson in the eternal madness of markets.</itunes:summary>
+    </item>
+    <item>
+      <title>I. The Tylenol Crisis of 1982</title>
+      <description><![CDATA[Seven deaths from cyanide-laced capsules. Johnson & Johnson's response—the recall of thirty-one million bottles at ruinous cost—became the gold standard for crisis management. A meditation on stakeholder prioritization and the peculiar economics of trust.]]></description>
       <pubDate>Sat, 01 Feb 2026 20:55:00 +0000</pubDate>
       <enclosure url="https://rcrandon.github.io/plutarch-speaks/episodes/2026-02-01-episode.mp3" length="0" type="audio/mpeg"/>
       <guid isPermaLink="false">plutarch-001</guid>
@@ -29,7 +39,7 @@
       <itunes:summary>Seven deaths from cyanide-laced capsules. J&J's radical transparency response became the gold standard for crisis management.</itunes:summary>
     </item>
     <item>
-      <title>0. Of the Arthashastra, and the Origins of Economic Science in the Court of Chandragupta Maurya</title>
+      <title>0. The Arthashastra</title>
       <description><![CDATA[India, circa 320 BCE. The ascetic Brahmin Chanakya presents to the young Emperor Chandragupta Maurya a manuscript that would shape governance for two millennia: the Arthashastra, the world's first comprehensive treatise on economics, statecraft, and political philosophy. An introduction to our series, and a meditation on the deep roots of the science of wealth.]]></description>
       <pubDate>Sat, 01 Feb 2026 21:15:00 +0000</pubDate>
       <enclosure url="https://rcrandon.github.io/plutarch-speaks/episodes/000-arthashastra.mp3" length="0" type="audio/mpeg"/>
