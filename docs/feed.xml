@@ -18,6 +18,15 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <!-- EPISODES_START -->
+    <item>
+      <title>The Tylenol Crisis: When Trust Became Currency</title>
+      <description><![CDATA[Seven deaths from cyanide-laced capsules. J&J's radical transparency response became the gold standard for crisis management. Lessons on stakeholder prioritization and the economics of trust.]]></description>
+      <pubDate>Sat, 01 Feb 2026 20:55:00 +0000</pubDate>
+      <enclosure url="https://rcrandon.github.io/plutarch-speaks/episodes/2026-02-01-episode.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">plutarch-20260201</guid>
+      <itunes:duration>00:01:30</itunes:duration>
+      <itunes:summary>Seven deaths from cyanide-laced capsules. J&J's radical transparency response became the gold standard for crisis management.</itunes:summary>
+    </item>
     <!-- EPISODES_END -->
   </channel>
 </rss>
