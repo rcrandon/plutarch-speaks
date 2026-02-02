@@ -19,6 +19,16 @@
     <itunes:explicit>false</itunes:explicit>
     <!-- EPISODES_START -->
     <item>
+      <title>III. The Death of Schlitz</title>
+      <description><![CDATA[Milwaukee, 1970. Schlitz was America's best-selling beer. Within a decade, it would be worthless — destroyed not by competitors but by its own executives' cost-cutting obsession. The tale of how "The Beer That Made Milwaukee Famous" became a cautionary tale about brand destruction.]]></description>
+      <pubDate>Mon, 02 Feb 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://rcrandon.github.io/plutarch-speaks/episodes/003-schlitz-beer.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">plutarch-003</guid>
+      <itunes:duration>00:04:36</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:summary>How relentless cost-cutting destroyed America's #1 beer brand. A lesson on brand promises, the seduction of optimization, and the things spreadsheets cannot measure.</itunes:summary>
+    </item>
+    <item>
       <title>II. The South Sea Bubble</title>
       <description><![CDATA[London, 1720. A single share rises from one hundred to one thousand pounds, then crashes to thirty-seven. Isaac Newton loses his fortune. A nation learns that markets can lie. The story of history's first great financial crash, and the eternal lesson it failed to teach.]]></description>
       <pubDate>Sun, 02 Feb 2026 05:00:00 +0000</pubDate>
