@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plutarch Speaks</title>
+    <link>https://rcrandon.github.io/plutarch-speaks/</link>
+    <atom:link href="https://rcrandon.github.io/plutarch-speaks/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Daily deep-cut business case studies narrated by Plutarch, your learned Greek tutor-slave. Drawing from Harvard Business Review and historical corporate documentation, each episode illuminates timeless lessons from the annals of commerce.</description>
+    <language>en-us</language>
+    <itunes:author>Plutarch</itunes:author>
+    <itunes:summary>Daily deep-cut business case studies narrated by Plutarch. Timeless lessons from HBR and corporate history.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Plutarch</itunes:name>
+      <itunes:email>randallcrandon@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://rcrandon.github.io/plutarch-speaks/cover.jpg"/>
+    <itunes:category text="Business"/>
+    <itunes:explicit>false</itunes:explicit>
+    <!-- EPISODES_START -->
+    <!-- EPISODES_END -->
+  </channel>
+</rss>
