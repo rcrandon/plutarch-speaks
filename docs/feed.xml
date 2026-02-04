@@ -19,6 +19,16 @@
     <itunes:explicit>false</itunes:explicit>
     <!-- EPISODES_START -->
     <item>
+      <title>IV. The Ratners Gaffe</title>
+      <description><![CDATA[London, 1991. Gerald Ratner had built the world's largest jewelry chain. Then, at the Royal Albert Hall before six thousand executives, he called his products "total crap." Five hundred million pounds evaporated. His name became a verb for self-destruction. A meditation on audience, aspiration, and the catastrophic weight of careless words.]]></description>
+      <pubDate>Tue, 04 Feb 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://rcrandon.github.io/plutarch-speaks/episodes/004-ratners-gaffe.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">plutarch-004</guid>
+      <itunes:duration>00:04:02</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:summary>How one joke at a business conference destroyed half a billion pounds. The story of Gerald Ratner and the sacred compact of aspiration.</itunes:summary>
+    </item>
+    <item>
       <title>III. The Death of Schlitz</title>
       <description><![CDATA[Milwaukee, 1970. Schlitz was America's best-selling beer. Within a decade, it would be worthless — destroyed not by competitors but by its own executives' cost-cutting obsession. The tale of how "The Beer That Made Milwaukee Famous" became a cautionary tale about brand destruction.]]></description>
       <pubDate>Mon, 02 Feb 2026 13:00:00 +0000</pubDate>
