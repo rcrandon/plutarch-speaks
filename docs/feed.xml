@@ -19,6 +19,16 @@
     <itunes:explicit>false</itunes:explicit>
     <!-- EPISODES_START -->
     <item>
+      <title>V. The Osborne Effect</title>
+      <description><![CDATA[Silicon Valley, 1981. Adam Osborne built a $100 million computer company in eighteen months. Then, at a press conference, he announced his next-generation products — and destroyed his own sales overnight. The "Osborne Effect" became a permanent term for pre-announcement suicide. A meditation on timing, confidence, and the fatal gap between vision and delivery.]]></description>
+      <pubDate>Thu, 06 Feb 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://rcrandon.github.io/plutarch-speaks/episodes/005-osborne-effect.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">plutarch-005</guid>
+      <itunes:duration>00:03:59</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:summary>How a visionary entrepreneur killed his own company by announcing products too early. The birth of "The Osborne Effect" — a mistake that recurs in tech to this day.</itunes:summary>
+    </item>
+    <item>
       <title>IV. The Ratners Gaffe</title>
       <description><![CDATA[London, 1991. Gerald Ratner had built the world's largest jewelry chain. Then, at the Royal Albert Hall before six thousand executives, he called his products "total crap." Five hundred million pounds evaporated. His name became a verb for self-destruction. A meditation on audience, aspiration, and the catastrophic weight of careless words.]]></description>
       <pubDate>Tue, 04 Feb 2026 13:00:00 +0000</pubDate>
